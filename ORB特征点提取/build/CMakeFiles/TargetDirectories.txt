@@ -1,0 +1,4 @@
+/home/user/桌面/homework/build/CMakeFiles/rebuild_cache.dir
+/home/user/桌面/homework/build/CMakeFiles/edit_cache.dir
+/home/user/桌面/homework/build/CMakeFiles/hw_day4.dir
+/home/user/桌面/homework/build/CMakeFiles/ORB.dir

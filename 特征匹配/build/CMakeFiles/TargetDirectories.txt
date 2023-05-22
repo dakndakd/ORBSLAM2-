@@ -1,0 +1,4 @@
+/home/user/桌面/hw-day11/build/CMakeFiles/rebuild_cache.dir
+/home/user/桌面/hw-day11/build/CMakeFiles/edit_cache.dir
+/home/user/桌面/hw-day11/build/CMakeFiles/hw11.dir
+/home/user/桌面/hw-day11/build/CMakeFiles/ORB.dir
